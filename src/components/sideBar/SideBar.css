@@ -1,0 +1,125 @@
+/* body {
+    margin: 0;
+  } */
+  
+  /* #App {
+    font-family: sans-serif;
+    height: 100%;
+  } */
+  
+  /* #page-wrap {
+    text-align: center;
+    overflow: auto;
+  } */
+  
+  .bm-item {
+    display: inline-block;
+    text-decoration: none;
+    margin-bottom: 10px;
+    color:black;
+    transition: color 0.2s;
+    
+  }
+  
+  .bm-item:hover {
+    background: rgb(179, 176, 176);
+  }
+  
+  .bm-burger-button {
+    position: fixed;
+    width: 24px;
+    height: 12px;
+    left: 36px;
+    top: 27px;
+  }
+  
+  .bm-burger-bars {
+    background: #373a47;
+  }
+  
+  .bm-cross-button {
+    height: 10px;
+    width: 10px;
+  }
+  
+  /* .bm-cross {
+    background: #bdc3c7;
+  } */
+  
+  .bm-menu {
+    background:white;
+    padding: 2.5em 1.5em 0;
+    font-size: 16px;
+  margin-left: 0%;
+  }
+  .sd{
+    display: block;
+    display: flex;
+    justify-content: center;
+  }
+ 
+   
+  .sidebar {
+    height: 100%;
+    width: 100px;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    background-color: white;
+    overflow-x: hidden;
+    padding-top: 16px;
+  }
+  
+  .sidebar a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 13px;
+    color: black;
+    display: block;
+  }
+  .men{
+    text-decoration: none;
+    color: black;
+    display: block;
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  
+  .sidebar a:hover {
+    background-color: rgb(233, 230, 230);
+  }
+  .menu-item , .mn{
+    display: inline;
+    margin-right: 25px;
+  }
+  
+ .b1 , .b2 , .b3 , .b4 , .b5 , .b6 , .b7 {
+   margin-bottom: 20px;
+   font-size: 16px;
+   font-family:Arial, Helvetica, sans-serif;
+ }
+ .a1 , .a {
+   display: inline-block; 
+   display: flex;
+   justify-content: center;
+   
+ }
+ .b1 , .b {
+  display: inline-block; 
+  display: flex;
+  justify-content: center;
+  
+}
+.c1 , .c {
+  display: inline-block; 
+  display: flex;
+  justify-content: center;
+  
+}
+.d1 , .d {
+  display: inline-block; 
+  display: flex;
+  justify-content: center;
+  
+}

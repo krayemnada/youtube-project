@@ -1,0 +1,49 @@
+.searchicon {
+    background-color: white;
+    border: rgb(207, 205, 205);
+    box-sizing: 30px;
+}
+.searchicon :hover{
+    background-color: white;
+}
+.nav{
+    height: 50px;
+}
+Button :hover{
+    background-color: rgb(145, 143, 143);
+}
+.me-2{
+    box-sizing: 40px;
+    margin-left: 150px;
+    text-align: left;
+    width: 500px;
+    height: 45px;
+}
+/* .micro {
+    border:1px ;
+} */
+.micro :hover{
+    background-color: honeydew;
+}
+.ytb, .fab fa-youtube{
+    display: inline;
+
+    margin-left: 70px;
+}
+.siza {
+    font-family: 20px;
+    color: rgb(97, 96, 97);
+}
+.lft {
+    display: inline-block;
+    margin-right: 150 150 0 0 ;
+}
+#mic{
+    margin-right: 500px;
+}
+.video,#mic,.bell,.picture,.lft,.yout{
+  display:flex;
+  align-items: center;
+}
+
+
